@@ -4,8 +4,8 @@ export function Footer() {
             <div className="mx-auto w-full max-w-7xl px-5 py-16 md:px-10 md:py-24 lg:py-32">
                 <div className="flex flex-col items-center">
 
-                    <a href="#" className="mb-8 inline-block max-w-full">
-                        <img width={300} src="/logo.svg" alt="logo" className="inline-block max-h-10" />
+                    <a href="https://flowbite.com" className="flex justify-center items-center">
+                        <img src="/logo.svg" className="h-16" alt="Flowbite Logo" />
                     </a>
 
                     <div className="text-center font-semibold max-[991px]:ml-0 max-[991px]:mr-0 max-[991px]:py-1">

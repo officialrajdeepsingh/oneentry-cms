@@ -2,10 +2,10 @@ export function Header() {
     return (
         <header className="px-4 lg:px-6 py-5 mx-auto">
 
-            <nav className="flex flex-wrap justify-center md:justify-between items-center mx-auto max-w-screen-xl">
+            <nav className="flex flex-wrap gap-5 justify-center md:justify-between items-center mx-auto max-w-screen-xl">
 
                 <a href="https://flowbite.com" className="flex justify-center items-center">
-                    <img src="/logo.svg" className="mr-3 h-6 sm:h-9" alt="Flowbite Logo" />
+                    <img src="/logo.svg" className="h-16" alt="Flowbite Logo" />
                 </a>
 
                 <ul className="flex flex-wrap mt-4 items-center font-medium flex-row lg:space-x-8 lg:mt-0">
